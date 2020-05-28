@@ -1,4 +1,4 @@
-package com.alexandr.lab6.database;
+package com.lab6.database;
 
 import androidx.room.Database;
 import androidx.room.RoomDatabase;

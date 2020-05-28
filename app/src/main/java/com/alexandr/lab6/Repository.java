@@ -1,13 +1,13 @@
-package com.alexandr.lab6;
+package com.lab6;
 
 import android.app.Activity;
 import android.app.Application;
 import android.util.Log;
 
-import com.alexandr.lab6.database.ShopDatabase;
-import com.alexandr.lab6.database.ShopEntity;
-import com.alexandr.lab6.ui.MainActivity;
-import com.alexandr.lab6.ui.fragments.BackFragment;
+import com.lab6.database.ShopDatabase;
+import com.lab6.database.ShopEntity;
+import com.lab6.ui.MainActivity;
+import com.lab6.ui.fragments.BackFragment;
 
 import java.util.HashSet;
 import java.util.List;

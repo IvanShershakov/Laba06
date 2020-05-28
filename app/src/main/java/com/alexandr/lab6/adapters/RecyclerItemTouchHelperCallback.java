@@ -1,6 +1,6 @@
-package com.alexandr.lab6.adapters;
+package com.lab6.adapters;
 
-import com.alexandr.lab6.database.ShopEntity;
+import com.lab6.database.ShopEntity;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

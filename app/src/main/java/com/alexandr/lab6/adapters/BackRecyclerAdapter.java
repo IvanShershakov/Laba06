@@ -1,4 +1,4 @@
-package com.alexandr.lab6.adapters;
+package com.lab6.adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,9 +7,9 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.alexandr.lab6.Constants;
-import com.alexandr.lab6.R;
-import com.alexandr.lab6.database.ShopEntity;
+import com.lab6.Constants;
+import com.lab6.R;
+import com.lab6.database.ShopEntity;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.alexandr.lab6;
+package com.lab6;
 public class Constants {
 
     public static final int STATE_INSERTED = 0;
